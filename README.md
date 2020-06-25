@@ -7,4 +7,5 @@ I love cats, coding and coffee - and sometimes all three of these happen at the 
 
 I began coding with Pascal - at school - and proceeded with Fortran-90 while being a freshman at college. 
 Now I am self-teaching C++ and Python because my former college teacher said he won't ever begin giving classes NOT about old good .f90 :/
-Btw, my cats love coffe and coding, too. ^-^
+
+Btw, my cats love coffee and coding, too. ^-^
